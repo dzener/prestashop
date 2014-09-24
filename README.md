@@ -1,3 +1,3 @@
 prestashop
 ==========
-This is project to create prestashop Modules
+Project for creating modules in Prestashop
